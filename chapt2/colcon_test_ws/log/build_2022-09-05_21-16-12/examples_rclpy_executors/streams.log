@@ -1,0 +1,59 @@
+[4.239s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/src/examples/rclpy/executors': PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors --record /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed
+[5.334s] running egg_info
+[5.335s] creating ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info
+[5.336s] writing ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[5.336s] writing dependency_links to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[5.347s] writing entry points to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[5.347s] writing requirements to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[5.348s] writing top-level names to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[5.348s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[5.358s] reading manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[5.359s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[5.360s] running build
+[5.360s] running build_py
+[5.360s] creating /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build
+[5.360s] creating /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib
+[5.360s] creating /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.361s] copying examples_rclpy_executors/custom_callback_group.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.361s] copying examples_rclpy_executors/callback_group.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.361s] copying examples_rclpy_executors/__init__.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.361s] copying examples_rclpy_executors/talker.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.362s] copying examples_rclpy_executors/composed.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.372s] copying examples_rclpy_executors/listener.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.372s] copying examples_rclpy_executors/custom_executor.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.373s] running install
+[5.373s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[5.373s]   warnings.warn(
+[5.374s] running install_lib
+[5.376s] creating /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[5.376s] copying /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_callback_group.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[5.377s] copying /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/callback_group.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[5.383s] copying /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/__init__.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[5.384s] copying /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/talker.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[5.385s] copying /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/composed.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[5.385s] copying /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/listener.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[5.386s] copying /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_executor.py -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[5.388s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/custom_callback_group.py to custom_callback_group.cpython-310.pyc
+[5.390s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/callback_group.py to callback_group.cpython-310.pyc
+[5.391s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/__init__.py to __init__.cpython-310.pyc
+[5.392s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/talker.py to talker.cpython-310.pyc
+[5.403s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/composed.py to composed.cpython-310.pyc
+[5.411s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/listener.py to listener.cpython-310.pyc
+[5.413s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/custom_executor.py to custom_executor.cpython-310.pyc
+[5.414s] running install_data
+[5.415s] creating /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/share/ament_index
+[5.415s] creating /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/share/ament_index/resource_index
+[5.416s] creating /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[5.416s] copying resource/examples_rclpy_executors -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[5.416s] copying package.xml -> /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/share/examples_rclpy_executors
+[5.417s] running install_egg_info
+[5.420s] Copying ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.0-py3.10.egg-info
+[5.434s] running install_scripts
+[5.559s] Installing callback_group script to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.560s] Installing composed script to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.560s] Installing custom_callback_group script to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.561s] Installing custom_executor script to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.561s] Installing listener script to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.562s] Installing talker script to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.563s] writing list of installed files to '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/install.log'
+[7.293s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/src/examples/rclpy/executors' returned '0': PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_executors --record /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed

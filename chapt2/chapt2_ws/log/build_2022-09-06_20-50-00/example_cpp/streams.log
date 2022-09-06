@@ -1,0 +1,23 @@
+[0.124s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/build/example_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/build/example_cpp -- -j12 -l12
+[0.153s] [35m[1mConsolidate compiler generated dependencies of target node_01[0m
+[0.168s] [100%] Built target node_01
+[0.329s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/build/example_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/build/example_cpp -- -j12 -l12
+[0.356s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/build/example_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/build/example_cpp
+[0.361s] -- Install configuration: ""
+[0.362s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/ament_index/resource_index/package_run_dependencies/example_cpp
+[0.362s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/ament_index/resource_index/parent_prefix_path/example_cpp
+[0.362s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/environment/ament_prefix_path.sh
+[0.362s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/environment/ament_prefix_path.dsv
+[0.362s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/environment/path.sh
+[0.362s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/environment/path.dsv
+[0.363s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/local_setup.bash
+[0.363s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/local_setup.sh
+[0.363s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/local_setup.zsh
+[0.363s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/local_setup.dsv
+[0.363s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/package.dsv
+[0.363s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/ament_index/resource_index/packages/example_cpp
+[0.363s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/cmake/example_cppConfig.cmake
+[0.363s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/cmake/example_cppConfig-version.cmake
+[0.363s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/package.xml
+[0.363s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/lib/example_cpp/node_01
+[0.365s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/build/example_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/build/example_cpp

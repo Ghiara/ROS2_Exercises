@@ -1,0 +1,83 @@
+[0.067s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/src/examples/rclcpp/actions/minimal_action_client -DCMAKE_INSTALL_PREFIX=/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client
+[0.142s] -- The C compiler identification is GNU 11.2.0
+[0.231s] -- The CXX compiler identification is GNU 11.2.0
+[0.236s] -- Detecting C compiler ABI info
+[0.348s] -- Detecting C compiler ABI info - done
+[0.363s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.363s] -- Detecting C compile features
+[0.364s] -- Detecting C compile features - done
+[0.376s] -- Detecting CXX compiler ABI info
+[0.481s] -- Detecting CXX compiler ABI info - done
+[0.495s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.495s] -- Detecting CXX compile features
+[0.496s] -- Detecting CXX compile features - done
+[0.502s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.808s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.4") found components: Interpreter 
+[0.976s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[1.057s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.069s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.092s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.119s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.160s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.470s] -- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)
+[1.593s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.599s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.778s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.826s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.916s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.240s] -- Found rclcpp_action: 16.0.1 (/opt/ros/humble/share/rclcpp_action/cmake)
+[2.318s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.519s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.521s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.522s] -- Configured cppcheck include dirs: 
+[2.522s] -- Configured cppcheck exclude dirs and/or files: 
+[2.524s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.524s] -- Configured cpplint exclude dirs and/or files: 
+[2.525s] -- Added test 'lint_cmake' to check CMake code style
+[2.527s] -- Added test 'uncrustify' to check C / C++ code style
+[2.527s] -- Configured uncrustify additional arguments: 
+[2.529s] -- Added test 'xmllint' to check XML markup files
+[2.533s] -- Configuring done
+[2.583s] -- Generating done
+[2.587s] -- Build files have been written to: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client
+[2.602s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/src/examples/rclcpp/actions/minimal_action_client -DCMAKE_INSTALL_PREFIX=/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client
+[2.609s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client -- -j12 -l12
+[25.565s] [ 12%] [32mBuilding CXX object CMakeFiles/action_client_not_composable.dir/not_composable.cpp.o[0m
+[25.565s] [ 25%] [32mBuilding CXX object CMakeFiles/action_client_member_functions.dir/member_functions.cpp.o[0m
+[25.565s] [ 37%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_feedback.dir/not_composable_with_feedback.cpp.o[0m
+[25.565s] [ 50%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_cancel.dir/not_composable_with_cancel.cpp.o[0m
+[25.565s] [ 62%] [32m[1mLinking CXX executable action_client_not_composable[0m
+[25.566s] [ 62%] Built target action_client_not_composable
+[28.560s] [ 75%] [32m[1mLinking CXX executable action_client_not_composable_with_cancel[0m
+[29.405s] [ 75%] Built target action_client_not_composable_with_cancel
+[29.611s] [ 87%] [32m[1mLinking CXX executable action_client_not_composable_with_feedback[0m
+[30.142s] [ 87%] Built target action_client_not_composable_with_feedback
+[33.562s] [100%] [32m[1mLinking CXX executable action_client_member_functions[0m
+[34.521s] [100%] Built target action_client_member_functions
+[34.696s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client -- -j12 -l12
+[35.815s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client
+[36.039s] -- Install configuration: ""
+[36.040s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions
+[36.040s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions" to ""
+[36.040s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable
+[36.040s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable" to ""
+[36.040s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel
+[36.040s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel" to ""
+[36.040s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback
+[36.040s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback" to ""
+[36.041s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_client
+[36.041s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_client
+[36.041s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.sh
+[36.041s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.dsv
+[36.041s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.sh
+[36.041s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.dsv
+[36.041s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.bash
+[36.041s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.sh
+[36.042s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.zsh
+[36.042s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.dsv
+[36.042s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.dsv
+[36.042s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_client
+[36.042s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig.cmake
+[36.042s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig-version.cmake
+[36.042s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.xml
+[36.166s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_minimal_action_client

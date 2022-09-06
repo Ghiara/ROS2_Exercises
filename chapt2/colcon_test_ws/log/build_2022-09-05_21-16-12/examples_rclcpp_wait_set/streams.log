@@ -1,0 +1,124 @@
+[0.037s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/src/examples/rclcpp/wait_set -DCMAKE_INSTALL_PREFIX=/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set
+[2.321s] -- The C compiler identification is GNU 11.2.0
+[2.321s] -- The CXX compiler identification is GNU 11.2.0
+[2.322s] -- Detecting C compiler ABI info
+[2.322s] -- Detecting C compiler ABI info - done
+[2.322s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.322s] -- Detecting C compile features
+[2.322s] -- Detecting C compile features - done
+[2.322s] -- Detecting CXX compiler ABI info
+[2.322s] -- Detecting CXX compiler ABI info - done
+[2.322s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.322s] -- Detecting CXX compile features
+[2.323s] -- Detecting CXX compile features - done
+[2.323s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.324s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.4") found components: Interpreter 
+[2.324s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[2.324s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.324s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.324s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.324s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.325s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.325s] -- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)
+[2.325s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.325s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.325s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.325s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.325s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.325s] -- Found rclcpp_components: 16.0.1 (/opt/ros/humble/share/rclcpp_components/cmake)
+[2.400s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.685s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.688s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.690s] -- Configured cppcheck include dirs: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/src/examples/rclcpp/wait_set/include
+[2.690s] -- Configured cppcheck exclude dirs and/or files: 
+[2.693s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.693s] -- Configured cpplint exclude dirs and/or files: 
+[2.695s] -- Added test 'lint_cmake' to check CMake code style
+[2.698s] -- Added test 'uncrustify' to check C / C++ code style
+[2.698s] -- Configured uncrustify additional arguments: 
+[2.700s] -- Added test 'xmllint' to check XML markup files
+[2.704s] -- Configuring done
+[3.075s] -- Generating done
+[3.096s] -- Build files have been written to: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set
+[3.181s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/src/examples/rclcpp/wait_set -DCMAKE_INSTALL_PREFIX=/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set
+[3.182s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set -- -j12 -l12
+[32.404s] [  4%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[32.404s] [  8%] [32mBuilding CXX object CMakeFiles/wait_set_talker.dir/rclcpp_components/node_main_wait_set_talker.cpp.o[0m
+[32.404s] [ 16%] [32mBuilding CXX object CMakeFiles/listener.dir/src/listener.cpp.o[0m
+[32.404s] [ 16%] [32mBuilding CXX object CMakeFiles/wait_set_listener.dir/rclcpp_components/node_main_wait_set_listener.cpp.o[0m
+[32.405s] [ 20%] [32mBuilding CXX object CMakeFiles/wait_set.dir/src/wait_set.cpp.o[0m
+[32.405s] [ 25%] [32mBuilding CXX object CMakeFiles/thread_safe_wait_set.dir/src/thread_safe_wait_set.cpp.o[0m
+[32.405s] [ 29%] [32mBuilding CXX object CMakeFiles/static_wait_set.dir/src/static_wait_set.cpp.o[0m
+[32.405s] [ 33%] [32mBuilding CXX object CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o[0m
+[32.405s] [ 37%] [32mBuilding CXX object CMakeFiles/wait_set_random_order.dir/src/wait_set_random_order.cpp.o[0m
+[32.405s] [ 41%] [32mBuilding CXX object CMakeFiles/executor_random_order.dir/src/executor_random_order.cpp.o[0m
+[32.405s] [ 45%] [32mBuilding CXX object CMakeFiles/wait_set_topics_with_different_rates.dir/src/wait_set_topics_with_different_rates.cpp.o[0m
+[32.406s] [ 50%] [32m[1mLinking CXX executable wait_set_talker[0m
+[32.406s] [ 50%] Built target wait_set_talker
+[32.406s] [ 54%] [32m[1mLinking CXX executable wait_set_listener[0m
+[32.406s] [ 54%] Built target wait_set_listener
+[33.211s] [ 58%] [32m[1mLinking CXX shared library libtalker.so[0m
+[34.441s] [ 58%] Built target talker
+[40.777s] [ 62%] [32m[1mLinking CXX executable static_wait_set[0m
+[42.157s] [ 66%] [32m[1mLinking CXX executable wait_set_random_order[0m
+[42.689s] [ 66%] Built target static_wait_set
+[43.467s] [ 66%] Built target wait_set_random_order
+[45.402s] [ 70%] [32m[1mLinking CXX executable executor_random_order[0m
+[46.968s] [ 70%] Built target executor_random_order
+[48.038s] [ 75%] [32m[1mLinking CXX shared library liblistener.so[0m
+[48.097s] [ 79%] [32m[1mLinking CXX executable thread_safe_wait_set[0m
+[48.839s] [ 83%] [32m[1mLinking CXX executable wait_set[0m
+[49.074s] [ 83%] Built target listener
+[49.089s] [ 83%] Built target thread_safe_wait_set
+[49.407s] [ 83%] Built target wait_set
+[49.413s] [ 87%] [32m[1mLinking CXX executable wait_set_topics_and_timer[0m
+[49.487s] [ 91%] [32m[1mLinking CXX executable wait_set_topics_with_different_rates[0m
+[49.868s] [ 91%] Built target wait_set_topics_and_timer
+[49.970s] [ 91%] Built target wait_set_topics_with_different_rates
+[49.989s] [ 95%] [32mBuilding CXX object CMakeFiles/wait_set_composed.dir/src/wait_set_composed.cpp.o[0m
+[52.661s] [100%] [32m[1mLinking CXX executable wait_set_composed[0m
+[52.837s] [100%] Built target wait_set_composed
+[52.914s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set -- -j12 -l12
+[52.969s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set
+[52.975s] -- Install configuration: ""
+[52.975s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[52.976s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker" to ""
+[52.976s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[52.977s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener" to ""
+[52.977s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/libtalker.so
+[52.980s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/libtalker.so" to ""
+[52.980s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/liblistener.so
+[52.988s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/liblistener.so" to ""
+[52.988s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[52.993s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set" to ""
+[52.993s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[52.998s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set" to ""
+[52.998s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[53.003s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set" to ""
+[53.003s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[53.008s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer" to ""
+[53.008s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[53.013s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order" to ""
+[53.013s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[53.018s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order" to ""
+[53.018s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[53.023s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates" to ""
+[53.023s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[53.024s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed" to ""
+[53.024s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[53.024s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[53.025s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[53.025s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[53.025s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[53.025s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[53.025s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[53.026s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[53.026s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[53.026s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[53.026s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[53.026s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[53.027s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[53.027s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[53.027s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[53.027s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[53.032s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/dev_ws/install/learning_urdf:/home/yuan/dev_ws/install/learning_topic:/home/yuan/dev_ws/install/learning_tf:/home/yuan/dev_ws/install/learning_service:/home/yuan/dev_ws/install/learning_qos:/home/yuan/dev_ws/install/learning_pkg_python:/home/yuan/dev_ws/install/learning_parameter:/home/yuan/dev_ws/install/learning_node:/home/yuan/dev_ws/install/learning_launch:/home/yuan/dev_ws/install/learning_action:/home/yuan/dev_ws/install/learning_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set

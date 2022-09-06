@@ -1,0 +1,25 @@
+[2.773s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/src/examples/rclpy/topics/minimal_publisher': PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_minimal_publisher/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher --record /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed
+[3.056s] running egg_info
+[3.057s] writing ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/PKG-INFO
+[3.057s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/dependency_links.txt
+[3.057s] writing entry points to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/entry_points.txt
+[3.057s] writing requirements to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/requires.txt
+[3.058s] writing top-level names to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/top_level.txt
+[3.060s] reading manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[3.061s] writing manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[3.062s] running build
+[3.062s] running build_py
+[3.062s] running install
+[3.062s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.062s]   warnings.warn(
+[3.063s] running install_lib
+[3.064s] running install_data
+[3.064s] running install_egg_info
+[3.066s] removing '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher-0.15.0-py3.10.egg-info' (and everything under it)
+[3.066s] Copying ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher-0.15.0-py3.10.egg-info
+[3.067s] running install_scripts
+[3.088s] Installing publisher_local_function script to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[3.088s] Installing publisher_member_function script to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[3.088s] Installing publisher_old_school script to /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[3.088s] writing list of installed files to '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_minimal_publisher/install.log'
+[3.115s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/src/examples/rclpy/topics/minimal_publisher' returned '0': PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_minimal_publisher/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher --record /home/yuan/Desktop/ROS2_Exercises/chapt2/colcon_test_ws/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed
