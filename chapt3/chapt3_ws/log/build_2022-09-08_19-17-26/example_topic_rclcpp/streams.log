@@ -1,0 +1,30 @@
+[0.011s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_topic_rclcpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_topic_rclcpp -- -j12 -l12
+[0.052s] [ 50%] [32mBuilding CXX object CMakeFiles/topic_subscribe_01.dir/src/topic_subscribe_01.cpp.o[0m
+[0.052s] [ 50%] [32mBuilding CXX object CMakeFiles/topic_publisher_01.dir/src/topic_publisher_01.cpp.o[0m
+[4.206s] [ 75%] [32m[1mLinking CXX executable topic_publisher_01[0m
+[4.372s] [ 75%] Built target topic_publisher_01
+[7.474s] [100%] [32m[1mLinking CXX executable topic_subscribe_01[0m
+[7.763s] [100%] Built target topic_subscribe_01
+[7.846s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_topic_rclcpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_topic_rclcpp -- -j12 -l12
+[7.937s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_topic_rclcpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_topic_rclcpp
+[7.950s] -- Install configuration: ""
+[7.951s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/ament_index/resource_index/package_run_dependencies/example_topic_rclcpp
+[7.951s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/ament_index/resource_index/parent_prefix_path/example_topic_rclcpp
+[7.952s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/ament_prefix_path.sh
+[7.952s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/ament_prefix_path.dsv
+[7.952s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/path.sh
+[7.952s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/path.dsv
+[7.953s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.bash
+[7.954s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.sh
+[7.954s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.zsh
+[7.954s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.dsv
+[7.954s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/package.dsv
+[7.955s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/ament_index/resource_index/packages/example_topic_rclcpp
+[7.955s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/cmake/example_topic_rclcppConfig.cmake
+[7.955s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/cmake/example_topic_rclcppConfig-version.cmake
+[7.955s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/package.xml
+[7.956s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_publisher_01
+[7.958s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_publisher_01" to ""
+[7.958s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_subscribe_01
+[7.963s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_subscribe_01" to ""
+[7.966s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_topic_rclcpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_topic_rclcpp

@@ -14,3 +14,4 @@
 /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/cmake/example_cppConfig-version.cmake
 /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/share/example_cpp/package.xml
 /home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/lib/example_cpp/node_01
+/home/yuan/Desktop/ROS2_Exercises/chapt2/chapt2_ws/install/example_cpp/lib/example_cpp/node_03

@@ -1,0 +1,3 @@
+[console_scripts]
+service_server_02 = example_service_rclpy.service_server_02:main
+

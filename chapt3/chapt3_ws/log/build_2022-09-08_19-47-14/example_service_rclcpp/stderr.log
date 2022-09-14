@@ -1,0 +1,18 @@
+[01m[K/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/src/example_service_rclcpp/src/service_client_01.cpp:[m[K In member function ‘[01m[Kvoid ServiceClient01::send_request(int, int)[m[K’:
+[01m[K/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/src/example_service_rclcpp/src/service_client_01.cpp:30:63:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[KServiceClient01::make_shared<example_interfaces::srv::AddTwoInts_Request>()[m[K’
+   30 |       [01;31m[Kmake_shared<example_interfaces::srv::AddTwoInts_Request>()[m[K;
+      |       [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~[m[K
+In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/context.hpp:34[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:34[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+                 from [01m[K/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/src/example_service_rclcpp/src/service_client_01.cpp:1[m[K:
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:80:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kstatic std::shared_ptr<rclcpp::Node> rclcpp::Node::make_shared(Args&& ...) [with Args = {example_interfaces::srv::AddTwoInts_Request_<std::allocator<void> >}][m[K’
+   80 |   [01;36m[KRCLCPP_SMART_PTR_DEFINITIONS[m[K(Node)
+      |   [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:80:3:[m[K [01;36m[Knote: [m[K  candidate expects 1 argument, 0 provided
+gmake[2]: *** [CMakeFiles/service_client_01.dir/build.make:76: CMakeFiles/service_client_01.dir/src/service_client_01.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/service_client_01.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2

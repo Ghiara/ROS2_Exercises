@@ -1,0 +1,32 @@
+[0.012s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_service_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclpy:/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_service_rclcpp -- -j12 -l12
+[0.042s] [35m[1mConsolidate compiler generated dependencies of target service_server_01[0m
+[0.043s] [35m[1mConsolidate compiler generated dependencies of target service_client_01[0m
+[0.057s] [ 50%] [32mBuilding CXX object CMakeFiles/service_server_01.dir/src/service_server_01.cpp.o[0m
+[0.057s] [ 50%] [32mBuilding CXX object CMakeFiles/service_client_01.dir/src/service_client_01.cpp.o[0m
+[2.980s] [ 75%] [32m[1mLinking CXX executable service_server_01[0m
+[2.983s] [100%] [32m[1mLinking CXX executable service_client_01[0m
+[3.112s] [100%] Built target service_server_01
+[3.115s] [100%] Built target service_client_01
+[3.191s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_service_rclcpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclpy:/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_service_rclcpp -- -j12 -l12
+[3.278s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_service_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclpy:/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_service_rclcpp
+[3.284s] -- Install configuration: ""
+[3.284s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/ament_index/resource_index/package_run_dependencies/example_service_rclcpp
+[3.284s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/ament_index/resource_index/parent_prefix_path/example_service_rclcpp
+[3.285s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/environment/ament_prefix_path.sh
+[3.285s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/environment/ament_prefix_path.dsv
+[3.285s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/environment/path.sh
+[3.285s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/environment/path.dsv
+[3.285s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/local_setup.bash
+[3.285s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/local_setup.sh
+[3.285s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/local_setup.zsh
+[3.285s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/local_setup.dsv
+[3.286s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/package.dsv
+[3.286s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/ament_index/resource_index/packages/example_service_rclcpp
+[3.286s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/cmake/example_service_rclcppConfig.cmake
+[3.286s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/cmake/example_service_rclcppConfig-version.cmake
+[3.286s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/share/example_service_rclcpp/package.xml
+[3.286s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/lib/example_service_rclcpp/service_server_01
+[3.287s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/lib/example_service_rclcpp/service_server_01" to ""
+[3.287s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/lib/example_service_rclcpp/service_client_01
+[3.288s] -- Set runtime path of "/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_service_rclcpp/lib/example_service_rclcpp/service_client_01" to ""
+[3.290s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_service_rclcpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_topic_rclpy:/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_service_rclcpp

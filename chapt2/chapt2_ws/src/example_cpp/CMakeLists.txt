@@ -22,9 +22,17 @@ if(BUILD_TESTING)
 endif()
 
 ament_package()
+
 add_executable(node_01 src/node_01.cpp)
 ament_target_dependencies(node_01 rclcpp)
 install(TARGETS
   node_01
+  DESTINATION lib/${PROJECT_NAME}
+)
+
+add_executable(node_03 src/node_03.cpp)
+ament_target_dependencies(node_03 rclcpp)
+install(TARGETS
+  node_03
   DESTINATION lib/${PROJECT_NAME}
 )
