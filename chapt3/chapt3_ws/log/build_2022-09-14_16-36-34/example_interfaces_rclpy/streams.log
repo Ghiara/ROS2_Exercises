@@ -1,0 +1,43 @@
+[0.477s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/src/example_interfaces_rclpy': AMENT_PREFIX_PATH=/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces LD_LIBRARY_PATH=/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages:/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/example_interfaces_rclpy build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy --record /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/install.log --single-version-externally-managed
+[0.680s] running egg_info
+[0.681s] creating ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info
+[0.681s] writing ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/PKG-INFO
+[0.681s] writing dependency_links to ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/dependency_links.txt
+[0.681s] writing entry points to ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/entry_points.txt
+[0.681s] writing requirements to ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/requires.txt
+[0.681s] writing top-level names to ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/top_level.txt
+[0.682s] writing manifest file '../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/SOURCES.txt'
+[0.684s] reading manifest file '../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/SOURCES.txt'
+[0.685s] writing manifest file '../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info/SOURCES.txt'
+[0.685s] running build
+[0.685s] running build_py
+[0.685s] creating /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build
+[0.685s] creating /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build/lib
+[0.686s] creating /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build/lib/example_interfaces_rclpy
+[0.686s] copying example_interfaces_rclpy/__init__.py -> /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build/lib/example_interfaces_rclpy
+[0.686s] copying example_interfaces_rclpy/example_interfaces_robot_02.py -> /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build/lib/example_interfaces_rclpy
+[0.686s] copying example_interfaces_rclpy/example_interfaces_control_02.py -> /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build/lib/example_interfaces_rclpy
+[0.686s] running install
+[0.686s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.686s]   warnings.warn(
+[0.687s] running install_lib
+[0.688s] creating /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy
+[0.688s] copying /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build/lib/example_interfaces_rclpy/__init__.py -> /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy
+[0.688s] copying /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build/lib/example_interfaces_rclpy/example_interfaces_robot_02.py -> /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy
+[0.688s] copying /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build/lib/example_interfaces_rclpy/example_interfaces_control_02.py -> /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy
+[0.689s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy/__init__.py to __init__.cpython-310.pyc
+[0.689s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy/example_interfaces_robot_02.py to example_interfaces_robot_02.cpython-310.pyc
+[0.690s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy/example_interfaces_control_02.py to example_interfaces_control_02.cpython-310.pyc
+[0.690s] running install_data
+[0.691s] creating /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/share/ament_index
+[0.691s] creating /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/share/ament_index/resource_index
+[0.691s] creating /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/share/ament_index/resource_index/packages
+[0.692s] copying resource/example_interfaces_rclpy -> /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/share/ament_index/resource_index/packages
+[0.692s] copying package.xml -> /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/share/example_interfaces_rclpy
+[0.692s] running install_egg_info
+[0.693s] Copying ../../build/example_interfaces_rclpy/example_interfaces_rclpy.egg-info to /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages/example_interfaces_rclpy-0.0.0-py3.10.egg-info
+[0.694s] running install_scripts
+[0.711s] Installing example_interfaces_control_02 script to /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/example_interfaces_rclpy
+[0.711s] Installing example_interfaces_robot_02 script to /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/example_interfaces_rclpy
+[0.711s] writing list of installed files to '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/install.log'
+[0.729s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/src/example_interfaces_rclpy' returned '0': AMENT_PREFIX_PATH=/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces LD_LIBRARY_PATH=/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy/lib/python3.10/site-packages:/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/example_interfaces_rclpy build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_interfaces_rclpy --record /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_interfaces_rclpy/install.log --single-version-externally-managed

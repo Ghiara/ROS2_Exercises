@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/src/example_interfaces_rclcpp/include/**",
+        "/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/src/example_ros2_interfaces/include/**",
+        "/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/src/example_service_rclcpp/include/**",
+        "/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/src/example_topic_rclcpp/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

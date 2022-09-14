@@ -1,0 +1,198 @@
+[0.011s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_ros2_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_ros2_interfaces -- -j12 -l12
+[0.049s] [  2%] Built target example_ros2_interfaces__cpp
+[0.051s] [ 12%] Built target example_ros2_interfaces__rosidl_generator_c
+[0.057s] [ 12%] Built target ament_cmake_python_copy_example_ros2_interfaces
+[0.069s] [ 23%] Built target example_ros2_interfaces__rosidl_typesupport_cpp
+[0.069s] [ 34%] Built target example_ros2_interfaces__rosidl_typesupport_c
+[0.070s] [ 46%] Built target example_ros2_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.070s] [ 55%] Built target example_ros2_interfaces__rosidl_typesupport_introspection_cpp
+[0.071s] [ 76%] Built target example_ros2_interfaces__rosidl_typesupport_fastrtps_c
+[0.071s] [ 76%] Built target example_ros2_interfaces__rosidl_typesupport_introspection_c
+[0.087s] [ 76%] Built target example_ros2_interfaces
+[0.103s] [ 78%] Built target example_ros2_interfaces__py
+[0.121s] [ 87%] Built target example_ros2_interfaces__rosidl_generator_py
+[0.139s] [ 95%] Built target example_ros2_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.139s] [ 95%] Built target example_ros2_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.139s] [100%] Built target example_ros2_interfaces__rosidl_typesupport_c__pyext
+[0.262s] running egg_info
+[0.263s] writing example_ros2_interfaces.egg-info/PKG-INFO
+[0.263s] writing dependency_links to example_ros2_interfaces.egg-info/dependency_links.txt
+[0.263s] writing top-level names to example_ros2_interfaces.egg-info/top_level.txt
+[0.265s] reading manifest file 'example_ros2_interfaces.egg-info/SOURCES.txt'
+[0.265s] writing manifest file 'example_ros2_interfaces.egg-info/SOURCES.txt'
+[0.285s] [100%] Built target ament_cmake_python_build_example_ros2_interfaces_egg
+[0.293s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_ros2_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_ros2_interfaces -- -j12 -l12
+[0.372s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_ros2_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_ros2_interfaces
+[0.378s] -- Install configuration: ""
+[0.378s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/ament_index/resource_index/rosidl_interfaces/example_ros2_interfaces
+[0.378s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces
+[0.378s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv
+[0.378s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail
+[0.378s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__functions.c
+[0.378s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__type_support.h
+[0.379s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__functions.h
+[0.379s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__struct.h
+[0.379s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/move_robot.h
+[0.379s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg
+[0.379s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail
+[0.379s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__struct.h
+[0.380s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__type_support.h
+[0.380s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__functions.h
+[0.380s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__functions.c
+[0.380s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__struct.h
+[0.380s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__functions.h
+[0.381s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__functions.c
+[0.381s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__type_support.h
+[0.381s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/robot_status.h
+[0.381s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/robot_pose.h
+[0.381s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.381s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/environment/library_path.sh
+[0.382s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/environment/library_path.dsv
+[0.382s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib/libexample_ros2_interfaces__rosidl_generator_c.so
+[0.382s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces
+[0.382s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv
+[0.382s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail
+[0.382s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__rosidl_typesupport_fastrtps_c.h
+[0.382s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg
+[0.383s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail
+[0.383s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__rosidl_typesupport_fastrtps_c.h
+[0.383s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__rosidl_typesupport_fastrtps_c.h
+[0.383s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.383s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib/libexample_ros2_interfaces__rosidl_typesupport_fastrtps_c.so
+[0.383s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces
+[0.384s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv
+[0.384s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail
+[0.384s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__type_support.c
+[0.384s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__rosidl_typesupport_introspection_c.h
+[0.384s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg
+[0.384s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail
+[0.384s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__rosidl_typesupport_introspection_c.h
+[0.384s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__type_support.c
+[0.384s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__rosidl_typesupport_introspection_c.h
+[0.385s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__type_support.c
+[0.385s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.385s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib/libexample_ros2_interfaces__rosidl_typesupport_introspection_c.so
+[0.385s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib/libexample_ros2_interfaces__rosidl_typesupport_c.so
+[0.385s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces
+[0.385s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv
+[0.385s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail
+[0.386s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__builder.hpp
+[0.386s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__struct.hpp
+[0.386s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__traits.hpp
+[0.386s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/move_robot.hpp
+[0.386s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg
+[0.386s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail
+[0.386s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__struct.hpp
+[0.386s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__builder.hpp
+[0.387s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__traits.hpp
+[0.387s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__builder.hpp
+[0.387s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__traits.hpp
+[0.387s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__struct.hpp
+[0.387s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/robot_pose.hpp
+[0.387s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/robot_status.hpp
+[0.387s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/dds_fastrtps
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__rosidl_typesupport_fastrtps_cpp.hpp
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__rosidl_typesupport_fastrtps_cpp.hpp
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/dds_fastrtps
+[0.388s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib/libexample_ros2_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__rosidl_typesupport_introspection_cpp.hpp
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/srv/detail/move_robot__type_support.cpp
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__rosidl_typesupport_introspection_cpp.hpp
+[0.389s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_pose__type_support.cpp
+[0.390s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__type_support.cpp
+[0.390s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/include/example_ros2_interfaces/example_ros2_interfaces/msg/detail/robot_status__rosidl_typesupport_introspection_cpp.hpp
+[0.390s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib/libexample_ros2_interfaces__rosidl_typesupport_introspection_cpp.so
+[0.390s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib/libexample_ros2_interfaces__rosidl_typesupport_cpp.so
+[0.390s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/environment/pythonpath.sh
+[0.390s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/environment/pythonpath.dsv
+[0.390s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces-0.0.0-py3.10.egg-info
+[0.390s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[0.390s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.391s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.391s] -- Installing: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[0.391s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces
+[0.391s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/_example_ros2_interfaces_s.ep.rosidl_typesupport_c.c
+[0.391s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/srv
+[0.391s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/srv/_move_robot.py
+[0.391s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/srv/__init__.py
+[0.391s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/srv/_move_robot_s.c
+[0.391s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/example_ros2_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.391s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/example_ros2_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/__init__.py
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/libexample_ros2_interfaces__rosidl_generator_py.so
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/msg
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/msg/_robot_pose.py
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/msg/__init__.py
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/msg/_robot_status.py
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/msg/_robot_status_s.c
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/msg/_robot_pose_s.c
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/example_ros2_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/_example_ros2_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.392s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/_example_ros2_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[0.408s] Listing '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces'...
+[0.408s] Listing '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/msg'...
+[0.408s] Listing '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/srv'...
+[0.412s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/example_ros2_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.412s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/example_ros2_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.412s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/local/lib/python3.10/dist-packages/example_ros2_interfaces/example_ros2_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.413s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/lib/libexample_ros2_interfaces__rosidl_generator_py.so
+[0.413s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/msg/RobotPose.idl
+[0.413s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/msg/RobotStatus.idl
+[0.414s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/srv/MoveRobot.idl
+[0.414s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/msg/RobotPose.msg
+[0.414s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/msg/RobotStatus.msg
+[0.414s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/srv/MoveRobot.srv
+[0.414s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/srv/MoveRobot_Request.msg
+[0.414s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/srv/MoveRobot_Response.msg
+[0.414s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/ament_index/resource_index/package_run_dependencies/example_ros2_interfaces
+[0.415s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/ament_index/resource_index/parent_prefix_path/example_ros2_interfaces
+[0.415s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/environment/ament_prefix_path.sh
+[0.415s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/environment/ament_prefix_path.dsv
+[0.415s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/environment/path.sh
+[0.415s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/environment/path.dsv
+[0.415s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/local_setup.bash
+[0.416s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/local_setup.sh
+[0.416s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/local_setup.zsh
+[0.416s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/local_setup.dsv
+[0.416s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/package.dsv
+[0.416s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/ament_index/resource_index/packages/example_ros2_interfaces
+[0.416s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/export_example_ros2_interfaces__rosidl_generator_cExport.cmake
+[0.416s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/export_example_ros2_interfaces__rosidl_generator_cExport-noconfig.cmake
+[0.416s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/export_example_ros2_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[0.417s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/export_example_ros2_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.417s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[0.417s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.417s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfaces__rosidl_typesupport_cExport.cmake
+[0.417s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[0.418s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/export_example_ros2_interfaces__rosidl_generator_cppExport.cmake
+[0.418s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/export_example_ros2_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.419s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/export_example_ros2_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.419s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[0.419s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.420s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfaces__rosidl_typesupport_cppExport.cmake
+[0.420s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[0.421s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/export_example_ros2_interfaces__rosidl_generator_pyExport.cmake
+[0.421s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/export_example_ros2_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[0.421s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/rosidl_cmake-extras.cmake
+[0.421s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.422s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.422s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[0.422s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[0.422s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.423s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.423s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfacesConfig.cmake
+[0.423s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/cmake/example_ros2_interfacesConfig-version.cmake
+[0.423s] -- Up-to-date: /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/install/example_ros2_interfaces/share/example_ros2_interfaces/package.xml
+[0.423s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_ros2_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yuan/Desktop/ROS2_Exercises/chapt3/chapt3_ws/build/example_ros2_interfaces
