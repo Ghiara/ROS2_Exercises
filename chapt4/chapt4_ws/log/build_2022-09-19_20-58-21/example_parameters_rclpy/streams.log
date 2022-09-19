@@ -1,0 +1,39 @@
+[0.522s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/src/example_parameters_rclpy': PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/example_parameters_rclpy build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy --record /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/install.log --single-version-externally-managed
+[0.721s] running egg_info
+[0.722s] creating ../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info
+[0.722s] writing ../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info/PKG-INFO
+[0.722s] writing dependency_links to ../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info/dependency_links.txt
+[0.722s] writing entry points to ../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info/entry_points.txt
+[0.722s] writing requirements to ../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info/requires.txt
+[0.723s] writing top-level names to ../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info/top_level.txt
+[0.723s] writing manifest file '../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info/SOURCES.txt'
+[0.724s] reading manifest file '../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info/SOURCES.txt'
+[0.724s] writing manifest file '../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info/SOURCES.txt'
+[0.725s] running build
+[0.725s] running build_py
+[0.725s] creating /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/build
+[0.725s] creating /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/build/lib
+[0.725s] creating /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/build/lib/example_parameters_rclpy
+[0.725s] copying example_parameters_rclpy/__init__.py -> /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/build/lib/example_parameters_rclpy
+[0.725s] copying example_parameters_rclpy/parameters_basic.py -> /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/build/lib/example_parameters_rclpy
+[0.725s] running install
+[0.801s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.802s]   warnings.warn(
+[0.802s] running install_lib
+[0.805s] creating /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/python3.10/site-packages/example_parameters_rclpy
+[0.805s] copying /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/build/lib/example_parameters_rclpy/__init__.py -> /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/python3.10/site-packages/example_parameters_rclpy
+[0.806s] copying /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/build/lib/example_parameters_rclpy/parameters_basic.py -> /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/python3.10/site-packages/example_parameters_rclpy
+[0.807s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/python3.10/site-packages/example_parameters_rclpy/__init__.py to __init__.cpython-310.pyc
+[0.808s] byte-compiling /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/python3.10/site-packages/example_parameters_rclpy/parameters_basic.py to parameters_basic.cpython-310.pyc
+[0.810s] running install_data
+[0.812s] creating /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/share/ament_index
+[0.813s] creating /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/share/ament_index/resource_index
+[0.813s] creating /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/share/ament_index/resource_index/packages
+[0.814s] copying resource/example_parameters_rclpy -> /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/share/ament_index/resource_index/packages
+[0.814s] copying package.xml -> /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/share/example_parameters_rclpy
+[0.814s] running install_egg_info
+[0.819s] Copying ../../build/example_parameters_rclpy/example_parameters_rclpy.egg-info to /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/python3.10/site-packages/example_parameters_rclpy-0.0.0-py3.10.egg-info
+[0.823s] running install_scripts
+[0.857s] Installing parameters_basic script to /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/example_parameters_rclpy
+[0.857s] writing list of installed files to '/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/install.log'
+[0.874s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/src/example_parameters_rclpy' returned '0': PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/example_parameters_rclpy build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy --record /home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/build/example_parameters_rclpy/install.log --single-version-externally-managed
