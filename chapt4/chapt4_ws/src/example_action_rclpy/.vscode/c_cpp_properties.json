@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/robot_control_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/src/example_action_rclcpp/include/**",
+        "/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/src/example_parameters_rclcpp/include/**",
+        "/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/src/robot_control_interfaces/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

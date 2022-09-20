@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/robot_control_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yuan/Desktop/ROS2_Exercises/chapt4/chapt4_ws/install/example_parameters_rclpy/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
