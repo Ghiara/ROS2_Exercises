@@ -3,7 +3,7 @@ from rclpy.action import ActionClient
 from rclpy.node import Node
 # 导入Action接口
 from robot_control_interfaces.action import MoveRobot
-
+ #
 class ActionControl02(Node):
     """Action客户端"""
 
