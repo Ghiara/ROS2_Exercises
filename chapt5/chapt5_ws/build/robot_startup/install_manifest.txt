@@ -1,0 +1,16 @@
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/ament_index/resource_index/package_run_dependencies/robot_startup
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/ament_index/resource_index/parent_prefix_path/robot_startup
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/environment/ament_prefix_path.sh
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/environment/ament_prefix_path.dsv
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/environment/path.sh
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/environment/path.dsv
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/local_setup.bash
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/local_setup.sh
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/local_setup.zsh
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/local_setup.dsv
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/package.dsv
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/ament_index/resource_index/packages/robot_startup
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/cmake/robot_startupConfig.cmake
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/cmake/robot_startupConfig-version.cmake
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/package.xml
+/home/yuan/Desktop/ROS2_Exercises/chapt5/chapt5_ws/install/robot_startup/share/robot_startup/launch/example_action.launch.py
