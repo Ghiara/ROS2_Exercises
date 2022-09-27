@@ -11,8 +11,10 @@ setup.py
 fishbot_description/__init__.py
 fishbot_description/rotate_wheel.py
 launch/display_rviz2.launch.py
+launch/gazebo.launch.py
 resource/fishbot_description
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
 urdf/fishbot_base.urdf
+urdf/fishbot_gazebo.urdf

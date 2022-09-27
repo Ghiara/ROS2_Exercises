@@ -1,9 +1,6 @@
 <?xml version="1.0"?>
 <robot name="fishbot">
-
-  <!-- Robot Footprint -->
-  <link name="base_footprint"/>
-
+    
   <!-- base link -->
   <link name="base_link">
       <visual>
@@ -16,12 +13,6 @@
       </material>
     </visual>
   </link>
-
-  <joint name="base_joint" type="fixed">
-    <parent link="base_footprint"/>
-    <child link="base_link"/>
-    <origin xyz="0.0 0.0 0.076" rpy="0 0 0"/>
-  </joint>
     
   <!-- laser link -->
   <link name="laser_link">
@@ -120,4 +111,3 @@
 
 
 </robot>
-

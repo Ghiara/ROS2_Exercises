@@ -1,0 +1,26 @@
+[0.603s] Invoking command in '/home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/fishbot_description': PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/fishbot_description build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/build/fishbot_description/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description --record /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/build/fishbot_description/install.log --single-version-externally-managed
+[0.816s] running egg_info
+[0.818s] writing ../build/fishbot_description/fishbot_description.egg-info/PKG-INFO
+[0.818s] writing dependency_links to ../build/fishbot_description/fishbot_description.egg-info/dependency_links.txt
+[0.818s] writing entry points to ../build/fishbot_description/fishbot_description.egg-info/entry_points.txt
+[0.818s] writing requirements to ../build/fishbot_description/fishbot_description.egg-info/requires.txt
+[0.818s] writing top-level names to ../build/fishbot_description/fishbot_description.egg-info/top_level.txt
+[0.820s] reading manifest file '../build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[0.896s] writing manifest file '../build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[0.897s] running build
+[0.897s] running build_py
+[0.897s] running install
+[0.899s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.899s]   warnings.warn(
+[0.899s] running install_lib
+[0.903s] running install_data
+[0.905s] copying launch/gazebo.launch.py -> /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/share/fishbot_description/launch
+[0.906s] copying urdf/fishbot_base.urdf -> /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/share/fishbot_description/urdf
+[0.906s] copying urdf/fishbot_gazebo.urdf -> /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/share/fishbot_description/urdf
+[0.906s] running install_egg_info
+[0.912s] removing '/home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.913s] Copying ../build/fishbot_description/fishbot_description.egg-info to /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info
+[0.917s] running install_scripts
+[0.955s] Installing rotate_wheel script to /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/lib/fishbot_description
+[0.956s] writing list of installed files to '/home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/build/fishbot_description/install.log'
+[0.983s] Invoked command in '/home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/fishbot_description' returned '0': PYTHONPATH=/home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/fishbot_description build --build-base /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/build/fishbot_description/build install --prefix /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description --record /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/build/fishbot_description/install.log --single-version-externally-managed

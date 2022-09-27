@@ -5,7 +5,9 @@
 /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/share/ament_index/resource_index/packages/fishbot_description
 /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/share/fishbot_description/package.xml
 /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/share/fishbot_description/launch/display_rviz2.launch.py
+/home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/share/fishbot_description/launch/gazebo.launch.py
 /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot_base.urdf
+/home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot_gazebo.urdf
 /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info/entry_points.txt
 /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info/top_level.txt
 /home/yuan/Desktop/ROS2_Exercises/chapt8/chapt8_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info/dependency_links.txt
