@@ -210,6 +210,7 @@
 
 
   <gazebo>
+    <!-- control plugin tool -->
     <plugin name='diff_drive' filename='libgazebo_ros_diff_drive.so'>
           <ros>
             <namespace>/</namespace>
@@ -218,8 +219,6 @@
           </ros>
           <update_rate>30</update_rate>
           <!-- wheels -->
-          <!-- <left_joint>left_wheel_joint</left_joint> -->
-          <!-- <right_joint>right_wheel_joint</right_joint> -->
           <left_joint>left_wheel_joint</left_joint>
           <right_joint>right_wheel_joint</right_joint>
           <!-- kinematics -->
@@ -234,7 +233,7 @@
           <publish_wheel_tf>false</publish_wheel_tf>
           <odometry_frame>odom</odometry_frame>
           <robot_base_frame>base_footprint</robot_base_frame>
-      </plugin>
+    </plugin>
 
 
       <plugin name="fishbot_joint_state" filename="libgazebo_ros_joint_state_publisher.so">
